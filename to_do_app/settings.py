@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'https://tododjangoapp.herokuapp.com/'
-]
+] 
 
 
 # Application definition
